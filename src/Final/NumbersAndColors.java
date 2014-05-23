@@ -2,6 +2,7 @@
  * Kong Huang
  * CS1213
  * 2048 in swing
+ * This file contains the constants (numbers and their respective colors) and their value.
  */
 
 package Final;
