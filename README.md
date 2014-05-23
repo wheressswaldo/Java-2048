@@ -14,20 +14,20 @@ Gabriel Cirulli’s original game can be seen here: http://gabrielecirulli.githu
 ---------------------------------------------------------------------------------
 Used:
 
-•	Swing library (to draw the board)
+*	Swing library (to draw the board)
 
-•	Java KeyEvents for keylisteners (up, down, left, right)
+*	Java KeyEvents for keylisteners (up, down, left, right)
 
-•	Custom classes grid and tile (made a normal array, had to cheat to make it function as a two dimensional array), too lazy to fix
+*	Custom classes grid and tile (made a normal array, had to cheat to make it function as a two dimensional array), too lazy to fix
 
-•	enum used to store numbers and colors as constants (you want the 1024 tile or the 512 tile to be different colors but same to each other)
+*	enum used to store numbers and colors as constants (you want the 1024 tile or the 512 tile to be different colors but same to each other)
 
 
 If there is time:
 
-•	HashMap of the most commonly used tiles (i.e. 0, 2, 4) to function as a sort of cache (faster)
+*	HashMap of the most commonly used tiles (i.e. 0, 2, 4) to function as a sort of cache (faster)
 
-•	Score?
+*	Score?
 
-•	Let the game continue past 2048
+*	Let the game continue past 2048
 
