@@ -2,6 +2,8 @@
  * Kong Huang
  * CS1213
  * 2048 in swing
+ * This file is for creating the grid, painting it, as well as containing all the algorithms needed for
+ * movement after keypresses (moving and merging lines)
  */
 
 package Final;
