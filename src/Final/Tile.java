@@ -2,6 +2,7 @@
  * Kong Huang
  * CS1213
  * 2048 in swing
+ * This file is used for each individual Tile. 
  */
 
 package Final;
