@@ -12,7 +12,7 @@ This is an adaptation of the game made in java.
 Gabriel Cirulli’s original game can be seen here: http://gabrielecirulli.github.io/2048/
 
 ---------------------------------------------------------------------------------
-Used:
+**bold**Used:
 
 *	Swing library (to draw the board)
 
