@@ -2,6 +2,7 @@
  * Kong Huang
  * CS1213
  * 2048 in swing
+ * This file contains all the keyevents which are mapped to their respective functions in Grid.
  */
 
 package Final;
