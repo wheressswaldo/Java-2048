@@ -2,6 +2,7 @@
  * Kong Huang
  * CS1213
  * 2048 in swing
+ * This file is the main file, used to run everything.
  */
 
 package Final;
