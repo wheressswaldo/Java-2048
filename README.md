@@ -2,6 +2,7 @@
 ====
 
 CS1213 final project adapting 2048
+
 **Programming Languages used:** Java
 
 2048 is a single-player online game created in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, 
