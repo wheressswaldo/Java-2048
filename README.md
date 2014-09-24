@@ -1,7 +1,8 @@
 2048
 ====
 
-cs1213 final project adapting 2048
+CS1213 final project adapting 2048
+**Programming Languages used:** Java
 
 2048 is a single-player online game created in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, 
 in which the objective is to slide numbered tiles on a grid to combine them and create a tile with the number 2048.
