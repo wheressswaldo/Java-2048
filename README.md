@@ -24,8 +24,6 @@ Gabriel Cirulli’s original game can be seen here: http://gabrielecirulli.githu
 
 *	enum used to store numbers and colors as constants (you want the 1024 tile or the 512 tile to be different colors but same to each other)
 
-* A funny algorithm for right(), up(), and down() utilizing rotation. Kinda in·gen·ious of me ahaha, check in Grid.java to see.
-
 **If there is time:**
 
 *	Cache of the most commonly used tiles (i.e. 0, 2, 4) (faster?)
