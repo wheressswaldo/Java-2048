@@ -1,7 +1,7 @@
 2048
 ====
 
-CS1213 final project adapting 2048
+Adaptation of 2048
 
 **Programming Languages used:** Java
 
